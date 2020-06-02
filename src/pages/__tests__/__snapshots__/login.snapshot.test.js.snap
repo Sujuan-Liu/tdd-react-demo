@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Page: login Render correctly 1`] = `
+<div>
+  <form>
+    <p
+      className="error-info"
+    >
+      
+    </p>
+    <input
+      name="username"
+      onChange={[Function]}
+      type="text"
+      value=""
+    />
+    <input
+      name="password"
+      onChange={[Function]}
+      type="password"
+      value=""
+    />
+    <button
+      className="login"
+      onClick={[Function]}
+    >
+      Login
+    </button>
+  </form>
+</div>
+`;
